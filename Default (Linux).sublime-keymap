@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["super+ctrl+l"],
+		"command": "log_to_browser"
+	}
+]

@@ -1,0 +1,16 @@
+#This file is automaticly modified by the handle file, so you should'nt modify by yourself
+
+$BEGIN$
+[SEARCH ENGINE]
+zer > test/_QUERY_
+re > testRE
+google > new_QUERY_
+default > https://duckduckgo.com/?q=_QUERY_
+[END SEARCH ENGINE]
+[FILE LINKS]
+5281421377694030057 > new_QUERY_
+-2225805973569867375 > https://duckduckgo.com/?q=_QUERY_
+[END FILE LINKS]
+[FILE EXT LINKS]
+[END FILE EXT LINKS]
+$END$

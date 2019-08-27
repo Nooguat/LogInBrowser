@@ -1,0 +1,57 @@
+[
+	{
+		"caption": "LIB",
+		"id": "LogInBrowser_context",
+
+		"children":
+		[
+			{
+				"command": "log_to_browser",
+				"id": "log_to_browser",
+				"caption": "Log the selection"
+			},
+			{
+				"caption": "Operations on SE",
+				"children":
+				[{
+				"command": "mod_search_engine",
+				"id": "mod_search_engine",
+				"caption": "Modify a search engine"
+				},
+				{
+				"command": "add_search_engine",
+				"id": "add_search_engine",
+				"caption": "Add a search engine"
+				},
+				{
+				"command": "remove_search_engine",
+				"id": "remove_search_engine",
+				"caption": "Remove a search engine"
+				}
+				]
+			},
+			
+			{
+				"caption": "Link ",
+				"children":
+				[{
+					"command": "link_search_engine_file",
+					"id": "link_file",
+					"caption": "This file to search engine"
+				},
+				{
+					"command": "link_search_engine_file_extension",
+					"id": "link_file_extension",
+					"caption": "This extension file to search engine"
+				},
+				{
+					"command": "remove_link",
+					"id": "remove_link",
+					"caption": "Remove link(s)"
+				}
+			]
+				}
+		]
+
+	}
+]
