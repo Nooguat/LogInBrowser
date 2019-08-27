@@ -4,9 +4,9 @@
 
 ## HOW TO INSTALL:
 Clone or copy this repository into the packages directory. By default, they are located at:
-- OS X: ~/Library/Application Support/Sublime Text 2/Packages/
-- Windows: %APPDATA%/Roaming/Sublime Text 2/Packages/
-- Linux: ~/.config/sublime-text-2/Packages/
+- OS X: ~/Library/Application Support/Sublime Text 3/Packages/
+- Windows: %APPDATA%/Roaming/Sublime Text 3/Packages/
+- Linux: ~/.config/sublime-text-3/Packages/
 
 ## USAGE:
 ### Log selection:
